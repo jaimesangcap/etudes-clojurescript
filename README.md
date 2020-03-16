@@ -27,3 +27,5 @@ java.io.FileNotFoundException
 
 Source: Calva: Clojure & ClojureScript Interactive Programming (Extension)
 ```
+
+**What is missing in this setup?**
