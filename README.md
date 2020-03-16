@@ -8,11 +8,12 @@ clj -A:nrepl
 
 Open the project in vscode and connect to running repl
 
-`ctrl+alt+c`  `ctr+alt+c`
+`ctrl+alt+c` `ctr+alt+c`
 
 Select `Clojure CLI`
 
-**ISSUES**
+**ISSUE**
+
 Go to `src/etudes_cljs/core.cljs`
 Then put the cursor at the end line `(def hello "hello")`
 And press `ctrl+alt+c` `ctrl+alt+e` (to send evaluation to repl)
