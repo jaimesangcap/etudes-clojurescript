@@ -29,3 +29,11 @@ Source: Calva: Clojure & ClojureScript Interactive Programming (Extension)
 ```
 
 **What is missing in this setup?**
+
+
+
+TODO
+====
+[] setup a custom connection sequence in calva that promotes clj repl to cljs repl
+[docs](https://calva.readthedocs.io/en/latest/connect-sequences.html)
+[built-in samples](https://github.com/BetterThanTomorrow/calva/blob/master/src/nrepl/connectSequence.ts)
